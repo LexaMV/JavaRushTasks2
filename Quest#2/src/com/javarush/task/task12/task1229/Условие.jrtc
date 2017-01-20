@@ -1,0 +1,6 @@
+<div class="wdghtml">
+<h3>Родитель класса CTO</h3>
+<p>Добавь такой класс-родитель к классу <span class="text-corporate"><strong>CTO</strong></span>(<strong>технический директор</strong>), чтобы класс перестал быть <em><strong>абстрактным</strong></em>.<br />
+Добавлять/реализовывать методы в классе <span class="text-corporate"><strong>CTO</strong></span> запрещается.</p>
+
+</div>

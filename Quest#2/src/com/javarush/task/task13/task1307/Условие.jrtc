@@ -1,0 +1,5 @@
+<div class="wdghtml">
+<h3>Параметризованый интерфейс</h3>
+<p>В классе <span class="text-corporate"><strong>StringObject</strong></span> реализуй интерфейс <mark class="red">SimpleObject</mark> с параметром типа <span class="text-corporate">String</span>.</p>
+
+</div>
